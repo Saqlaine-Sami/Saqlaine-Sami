@@ -23,7 +23,21 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 
 ---
+## 🌐 Connect With Me
 
+<p align="left">
+
+<a href="(https://www.linkedin.com/in/saqlaine-sami-477a363b3/)">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Saqlaine-Sami">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+
+
+</p>
 ## 🛠️ Tech Stack  
 
 ### **Frontend**
@@ -54,12 +68,19 @@ Currently, I'm focused on expanding my knowledge in **GraphQL** and **Docker** w
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-| GitHub Stats | Most Used Languages |
-| :---: | :---: |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saqlaine-Sami&show_icons=true&theme=default" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saqlaine-Sami&layout=compact&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Saqlaine-Sami&theme=default" />
+</p>
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
