@@ -1,3 +1,5 @@
+<img width="1600" height="528" alt="WhatsApp Image 2026-09-03 at 2 24 14 PM" src="https://github.com/user-attachments/assets/ffc33ee9-a504-41d8-a2d0-1e52194c491d" />
+
 # Hi 👋, I'm B. M. Golam Saqlaine Sami  
 ### 🔭 I build things with JavaScript, React, and Node.js
 
